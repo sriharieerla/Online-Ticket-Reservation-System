@@ -38,6 +38,4 @@ This project demonstrates **end-to-end ticket management** and can be extended f
 - Install [Maven](https://maven.apache.org/)
 - Install [MySQL](https://dev.mysql.com/downloads/) and create database `ticketdb`
 
-```sql
-CREATE DATABASE ticketdb;
-```
+
